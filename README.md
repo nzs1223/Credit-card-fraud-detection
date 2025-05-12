@@ -4,7 +4,13 @@ Project Overview
 This project aims to detect fraudulent credit card transactions using machine learning techniques. We utilize a classification approach to predict whether a transaction is fraudulent (1) or not fraudulent (0) based on various features. The dataset contains a class imbalance, with non-fraudulent transactions far outnumbering fraudulent ones.
 
 Dataset
-The dataset used in this project contains transaction details from credit card companies. It includes features such as:
+The dataset used in this project contains transaction details from credit card companies. ### Dataset
+The dataset used for this project is the **Credit Card Fraud Detection** dataset, which is available for download from the following link:
+
+[Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+*Note: You will need to sign in to Kaggle to access the dataset.*
+ It includes features such as:
 
 Transaction Amount
 
