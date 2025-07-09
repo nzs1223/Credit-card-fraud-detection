@@ -1,5 +1,7 @@
 # Credit-card-fraud-detection
 
+Project Completion Date: March 2023
+
 Project Overview
 This project aims to detect fraudulent credit card transactions using machine learning techniques. We utilize a classification approach to predict whether a transaction is fraudulent (1) or not fraudulent (0) based on various features. The dataset contains a class imbalance, with non-fraudulent transactions far outnumbering fraudulent ones.
 
